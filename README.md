@@ -1,1 +1,2 @@
-# TASK_2_LGM
+# task_2_LGM
+user card display using react-app
